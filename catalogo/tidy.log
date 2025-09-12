@@ -1,0 +1,459 @@
+line 1 column 1 - Warning: missing <!DOCTYPE> declaration
+line 160 column 5 - Warning: discarding unexpected </dd>
+line 1463 column 401 - Warning: entity "&#" doesn't end in ';'
+line 1472 column 462 - Warning: unescaped & or unknown entity "&nt"
+line 1562 column 30 - Warning: missing </center>
+line 1706 column 8 - Warning: discarding unexpected </center>
+line 1789 column 469 - Warning: unescaped & or unknown entity "&ntild"
+line 2470 column 24 - Warning: missing </center>
+line 2673 column 8 - Warning: discarding unexpected </center>
+line 3502 column 1 - Warning: inserting implicit <dl>
+line 3518 column 1 - Warning: inserting implicit <ul>
+line 3521 column 1 - Warning: inserting implicit <dl>
+line 3536 column 1 - Warning: inserting implicit <ul>
+line 3539 column 1 - Warning: inserting implicit <dl>
+line 3554 column 1 - Warning: inserting implicit <ul>
+line 3556 column 1 - Warning: inserting implicit <dl>
+line 3567 column 1 - Warning: inserting implicit <ul>
+line 3569 column 1 - Warning: inserting implicit <dl>
+line 3583 column 1 - Warning: inserting implicit <ul>
+line 3585 column 1 - Warning: inserting implicit <dl>
+line 3585 column 1 - Warning: missing </dl> before </ol>
+line 3583 column 1 - Warning: missing </ul> before </ol>
+line 3569 column 1 - Warning: missing </dl> before </ol>
+line 3567 column 1 - Warning: missing </ul> before </ol>
+line 3556 column 1 - Warning: missing </dl> before </ol>
+line 3554 column 1 - Warning: missing </ul> before </ol>
+line 3539 column 1 - Warning: missing </dl> before </ol>
+line 3536 column 1 - Warning: missing </ul> before </ol>
+line 3521 column 1 - Warning: missing </dl> before </ol>
+line 3518 column 1 - Warning: missing </ul> before </ol>
+line 3502 column 1 - Warning: missing </dl> before </ol>
+line 3777 column 1 - Warning: inserting implicit <ul>
+line 3779 column 1 - Warning: inserting implicit <dl>
+line 4887 column 295 - Warning: unescaped & which should be written as &amp;
+line 4907 column 157 - Warning: unescaped & which should be written as &amp;
+line 7838 column 489 - Warning: unescaped & or unknown entity "&a"
+line 8000 column 1 - Warning: entity "&#12" doesn't end in ';'
+line 8017 column 16 - Warning: <em> is probably intended as </em>
+line 8017 column 160 - Warning: discarding unexpected </em>
+line 8017 column 252 - Warning: discarding unexpected </em>
+line 8139 column 34 - Warning: inserting implicit <dl>
+line 8139 column 34 - Warning: missing </dl> before </ol>
+line 9651 column 383 - Warning: entity "&#124" doesn't end in ';'
+line 10133 column 382 - Warning: entity "&#" doesn't end in ';'
+line 10661 column 296 - Warning: unescaped & or unknown entity "&qot"
+line 11454 column 1 - Warning: missing <dd>
+line 11501 column 389 - Warning: unescaped & or unknown entity "&c."
+line 11810 column 383 - Warning: entity "&#" doesn't end in ';'
+line 11816 column 403 - Warning: entity "&#124" doesn't end in ';'
+line 12273 column 408 - Warning: entity "&#12" doesn't end in ';'
+line 12586 column 2 - Warning: unescaped & which should be written as &amp;
+line 12598 column 16 - Warning: unescaped & or unknown entity "&ea"
+line 12689 column 379 - Warning: entity "&#124" doesn't end in ';'
+line 13251 column 415 - Warning: entity "&#124" doesn't end in ';'
+line 13481 column 7 - Warning: inserting implicit <dl>
+line 13482 column 1 - Warning: inserting implicit <ul>
+line 13482 column 1 - Warning: missing </ul> before </ol>
+line 13481 column 7 - Warning: missing </dl> before </ol>
+line 13517 column 394 - Error: <language> is not recognized!
+line 13517 column 394 - Warning: discarding unexpected <language>
+line 13518 column 27 - Warning: discarding unexpected </language>
+line 14375 column 513 - Warning: unescaped & or unknown entity "&am"
+line 14981 column 470 - Warning: unescaped & or unknown entity "&aa"
+line 15188 column 467 - Warning: unescaped & or unknown entity "&cce"
+line 15234 column 7 - Warning: inserting implicit <ul>
+line 15236 column 1 - Warning: inserting implicit <dl>
+line 15364 column 1 - Warning: inserting implicit <ul>
+line 15367 column 1 - Warning: inserting implicit <dl>
+line 15437 column 55 - Warning: missing <dd>
+line 15842 column 94 - Warning: entity "&quot" doesn't end in ';'
+line 18178 column 7 - Warning: missing </ul> before </dl>
+line 18397 column 8 - Warning: <li> isn't allowed in <dl> elements
+line 15364 column 1 - Warning: missing </ul> before </dl>
+line 18539 column 8 - Warning: missing </dl> before </ul>
+line 19393 column 93 - Warning: unescaped & which should be written as &amp;
+line 19513 column 1 - Warning: missing <li>
+line 20398 column 1 - Warning: missing <li>
+line 20728 column 1 - Warning: missing <li>
+line 22129 column 166 - Warning: unescaped & or unknown entity "&QUOT"
+line 22604 column 421 - Warning: <supta> attribute "/sup" lacks value
+line 22604 column 421 - Error: <supta> is not recognized!
+line 22604 column 421 - Warning: discarding unexpected <supta>
+line 22611 column 401 - Warning: unescaped & or unknown entity "&QUOT"
+line 22611 column 470 - Warning: unescaped & or unknown entity "&uac"
+line 22819 column 401 - Warning: unescaped & or unknown entity "&QUOT"
+line 22819 column 468 - Warning: unescaped & or unknown entity "&uacut"
+line 23052 column 139 - Warning: unescaped & which should be written as &amp;
+line 23262 column 362 - Warning: entity "&#124" doesn't end in ';'
+line 23612 column 93 - Warning: unescaped & or unknown entity "&camp"
+line 24276 column 469 - Warning: unescaped & or unknown entity "&iacu"
+line 24283 column 289 - Warning: unescaped & or unknown entity "&QUOT"
+line 24501 column 7 - Warning: missing </ul> before </dl>
+line 24708 column 8 - Warning: <li> isn't allowed in <dl> elements
+line 3777 column 1 - Warning: missing </ul> before </dl>
+line 24869 column 8 - Warning: <li> isn't allowed in <dl> elements
+line 24871 column 1 - Warning: discarding unexpected </dl>
+line 24960 column 8 - Warning: <li> isn't allowed in <dl> elements
+line 24962 column 1 - Warning: discarding unexpected </dl>
+line 25051 column 8 - Warning: <li> isn't allowed in <dl> elements
+line 25053 column 1 - Warning: discarding unexpected </dl>
+line 25278 column 1 - Warning: discarding unexpected </ul>
+line 25660 column 430 - Warning: unescaped & or unknown entity "&QUOT"
+line 25836 column 237 - Warning: unescaped & or unknown entity "&QUOT"
+line 26235 column 1 - Warning: missing <tr>
+line 26239 column 1 - Warning: missing <tr>
+line 26243 column 1 - Warning: missing <tr>
+line 26247 column 1 - Warning: missing <tr>
+line 26251 column 1 - Warning: missing <tr>
+line 26255 column 1 - Warning: missing <tr>
+line 26259 column 1 - Warning: missing <tr>
+line 26263 column 1 - Warning: missing <tr>
+line 26267 column 1 - Warning: missing <tr>
+line 26271 column 1 - Warning: missing <tr>
+line 26275 column 1 - Warning: missing <tr>
+line 26279 column 1 - Warning: missing <tr>
+line 26283 column 1 - Warning: missing <tr>
+line 26287 column 1 - Warning: missing <tr>
+line 26291 column 1 - Warning: missing <tr>
+line 26295 column 1 - Warning: missing <tr>
+line 26299 column 1 - Warning: missing <tr>
+line 26303 column 1 - Warning: missing <tr>
+line 26307 column 1 - Warning: missing <tr>
+line 26311 column 1 - Warning: missing <tr>
+line 26315 column 1 - Warning: missing <tr>
+line 26319 column 1 - Warning: missing <tr>
+line 26323 column 1 - Warning: missing <tr>
+line 26327 column 1 - Warning: missing <tr>
+line 26331 column 1 - Warning: missing <tr>
+line 26335 column 1 - Warning: missing <tr>
+line 26339 column 1 - Warning: missing <tr>
+line 26343 column 1 - Warning: missing <tr>
+line 26347 column 1 - Warning: missing <tr>
+line 26351 column 1 - Warning: missing <tr>
+line 26355 column 1 - Warning: missing <tr>
+line 26359 column 1 - Warning: missing <tr>
+line 26363 column 1 - Warning: missing <tr>
+line 26367 column 1 - Warning: missing <tr>
+line 26371 column 1 - Warning: missing <tr>
+line 26375 column 1 - Warning: missing <tr>
+line 26379 column 1 - Warning: missing <tr>
+line 26383 column 1 - Warning: missing <tr>
+line 26387 column 1 - Warning: missing <tr>
+line 26391 column 1 - Warning: missing <tr>
+line 26395 column 1 - Warning: missing <tr>
+line 26399 column 1 - Warning: missing <tr>
+line 26403 column 1 - Warning: missing <tr>
+line 26407 column 1 - Warning: missing <tr>
+line 26411 column 1 - Warning: missing <tr>
+line 26415 column 1 - Warning: missing <tr>
+line 26419 column 1 - Warning: missing <tr>
+line 26480 column 343 - Warning: unescaped & or unknown entity "&quot:Los"
+line 26770 column 8 - Warning: unescaped & which should be written as &amp;
+line 26770 column 10 - Warning: unescaped & or unknown entity "&3v"
+line 28352 column 1 - Warning: <dd> missing '>' for end of tag
+line 28486 column 478 - Warning: unescaped & or unknown entity "&qu"
+line 28744 column 74 - Warning: unescaped & which should be written as &amp;
+line 28831 column 446 - Warning: unescaped & which should be written as &amp;
+line 28831 column 488 - Warning: unescaped & which should be written as &amp;
+line 28832 column 77 - Warning: unescaped & which should be written as &amp;
+line 28832 column 178 - Warning: unescaped & which should be written as &amp;
+line 28904 column 136 - Warning: unescaped & which should be written as &amp;
+line 28909 column 54 - Warning: unescaped & which should be written as &amp;
+line 28909 column 98 - Warning: unescaped & which should be written as &amp;
+line 29218 column 423 - Warning: unescaped & which should be written as &amp;
+line 29219 column 185 - Warning: unescaped & which should be written as &amp;
+line 29223 column 8 - Warning: unescaped & or unknown entity "&et"
+line 29224 column 201 - Warning: unescaped & which should be written as &amp;
+line 29224 column 265 - Warning: unescaped & which should be written as &amp;
+line 29225 column 215 - Warning: unescaped & which should be written as &amp;
+line 29817 column 288 - Warning: unescaped & which should be written as &amp;
+line 29817 column 515 - Warning: unescaped & or unknown entity "&a"
+line 30871 column 156 - Warning: unescaped & or unknown entity "&QUOT"
+line 31198 column 12 - Warning: entity "&acute" doesn't end in ';'
+line 31354 column 178 - Warning: unescaped & or unknown entity "&quot13.490"
+line 31650 column 219 - Warning: unescaped & or unknown entity "&QUOT"
+line 31879 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31884 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31889 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31894 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31899 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31904 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31909 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31914 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31919 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31929 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31939 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31944 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31949 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31954 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31959 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31964 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31979 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31984 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31989 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31994 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 31999 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32004 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32009 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32014 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32019 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32024 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32029 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32034 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32039 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32044 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32054 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32064 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32069 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32079 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32089 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32094 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32124 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32134 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32139 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32144 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32149 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32154 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32159 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32164 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32169 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32174 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32179 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32184 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32189 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32194 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32199 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32204 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32209 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 32214 column 8 - Warning: entity "&nbsp" doesn't end in ';'
+line 33364 column 167 - Warning: entity "&quot" doesn't end in ';'
+line 33903 column 7 - Warning: missing </i> before <li>
+line 33904 column 7 - Warning: inserting implicit <i>
+line 34595 column 126 - Warning: unescaped & or unknown entity "&quot:OCHOA"
+line 34636 column 229 - Warning: unescaped & which should be written as &amp;
+line 34705 column 71 - Warning: unescaped & which should be written as &amp;
+line 34790 column 229 - Warning: unescaped & which should be written as &amp;
+line 35137 column 7 - Warning: missing <li>
+line 35386 column 78 - Warning: entity "&quot" doesn't end in ';'
+line 35846 column 312 - Warning: unescaped & or unknown entity "&quotDVM"
+line 36116 column 262 - Warning: unescaped & which should be written as &amp;
+line 36116 column 303 - Warning: unescaped & which should be written as &amp;
+line 36116 column 328 - Warning: unescaped & which should be written as &amp;
+line 36117 column 365 - Warning: unescaped & which should be written as &amp;
+line 36117 column 421 - Warning: unescaped & which should be written as &amp;
+line 36117 column 449 - Warning: unescaped & which should be written as &amp;
+line 36117 column 505 - Warning: unescaped & which should be written as &amp;
+line 36117 column 518 - Warning: unescaped & which should be written as &amp;
+line 36117 column 544 - Warning: unescaped & which should be written as &amp;
+line 36121 column 78 - Warning: unescaped & which should be written as &amp;
+line 36121 column 91 - Warning: unescaped & which should be written as &amp;
+line 36121 column 236 - Warning: unescaped & which should be written as &amp;
+line 36121 column 259 - Warning: unescaped & which should be written as &amp;
+line 36121 column 411 - Warning: unescaped & which should be written as &amp;
+line 36121 column 423 - Warning: unescaped & which should be written as &amp;
+line 36121 column 471 - Warning: unescaped & which should be written as &amp;
+line 36121 column 517 - Warning: unescaped & which should be written as &amp;
+line 36546 column 352 - Warning: entity "&quot" doesn't end in ';'
+line 37732 column 172 - Warning: entity "&amp" doesn't end in ';'
+line 37803 column 1 - Warning: inserting implicit <ul>
+line 37803 column 1 - Warning: missing </ul> before </dl>
+line 39347 column 244 - Warning: unescaped & which should be written as &amp;
+line 39347 column 275 - Warning: unescaped & which should be written as &amp;
+line 39351 column 140 - Warning: unescaped & which should be written as &amp;
+line 39435 column 234 - Warning: unescaped & or unknown entity "&c."
+line 39435 column 260 - Warning: unescaped & or unknown entity "&c."
+line 39435 column 321 - Warning: unescaped & or unknown entity "&c."
+line 39475 column 236 - Warning: unescaped & or unknown entity "&c."
+line 39475 column 262 - Warning: unescaped & or unknown entity "&c."
+line 39475 column 323 - Warning: unescaped & or unknown entity "&c."
+line 39589 column 196 - Warning: unescaped & which should be written as &amp;
+line 39592 column 72 - Warning: unescaped & which should be written as &amp;
+line 39592 column 97 - Warning: unescaped & which should be written as &amp;
+line 39592 column 168 - Warning: unescaped & which should be written as &amp;
+line 40342 column 98 - Error: <id.> is not recognized!
+line 40342 column 98 - Warning: discarding unexpected <id.>
+line 40342 column 133 - Warning: discarding unexpected </i>
+line 40434 column 261 - Warning: unescaped & or unknown entity "&quots"
+line 40475 column 85 - Warning: unescaped & which should be written as &amp;
+line 40475 column 112 - Warning: unescaped & which should be written as &amp;
+line 40475 column 178 - Warning: unescaped & which should be written as &amp;
+line 40475 column 188 - Warning: unescaped & which should be written as &amp;
+line 40475 column 254 - Warning: unescaped & which should be written as &amp;
+line 40475 column 340 - Warning: unescaped & which should be written as &amp;
+line 40475 column 441 - Warning: unescaped & which should be written as &amp;
+line 40475 column 664 - Warning: unescaped & which should be written as &amp;
+line 40475 column 733 - Warning: unescaped & which should be written as &amp;
+line 40506 column 87 - Warning: unescaped & which should be written as &amp;
+line 40506 column 199 - Warning: unescaped & which should be written as &amp;
+line 40507 column 146 - Warning: unescaped & or unknown entity "&c."
+line 40520 column 43 - Warning: unescaped & which should be written as &amp;
+line 40520 column 86 - Warning: unescaped & which should be written as &amp;
+line 40550 column 36 - Warning: unescaped & which should be written as &amp;
+line 40550 column 196 - Warning: unescaped & which should be written as &amp;
+line 40550 column 253 - Warning: unescaped & which should be written as &amp;
+line 40551 column 53 - Warning: unescaped & which should be written as &amp;
+line 40553 column 74 - Warning: unescaped & which should be written as &amp;
+line 40553 column 91 - Warning: unescaped & which should be written as &amp;
+line 40553 column 132 - Warning: unescaped & which should be written as &amp;
+line 40553 column 185 - Warning: unescaped & which should be written as &amp;
+line 40553 column 245 - Warning: unescaped & which should be written as &amp;
+line 40553 column 264 - Warning: unescaped & which should be written as &amp;
+line 40554 column 46 - Warning: unescaped & which should be written as &amp;
+line 40554 column 89 - Warning: unescaped & which should be written as &amp;
+line 40554 column 190 - Warning: unescaped & which should be written as &amp;
+line 40558 column 84 - Warning: unescaped & which should be written as &amp;
+line 40558 column 125 - Warning: unescaped & which should be written as &amp;
+line 40558 column 154 - Warning: unescaped & which should be written as &amp;
+line 40559 column 8 - Warning: unescaped & which should be written as &amp;
+line 40559 column 38 - Warning: unescaped & which should be written as &amp;
+line 40559 column 110 - Warning: unescaped & which should be written as &amp;
+line 40559 column 121 - Warning: unescaped & which should be written as &amp;
+line 40560 column 8 - Warning: unescaped & which should be written as &amp;
+line 40560 column 33 - Warning: unescaped & which should be written as &amp;
+line 40560 column 81 - Warning: unescaped & which should be written as &amp;
+line 40560 column 124 - Warning: unescaped & which should be written as &amp;
+line 40561 column 68 - Warning: unescaped & which should be written as &amp;
+line 40561 column 106 - Warning: unescaped & which should be written as &amp;
+line 40561 column 146 - Warning: unescaped & which should be written as &amp;
+line 40561 column 177 - Warning: unescaped & which should be written as &amp;
+line 40561 column 204 - Warning: unescaped & which should be written as &amp;
+line 40562 column 82 - Warning: unescaped & which should be written as &amp;
+line 41927 column 8 - Warning: entity "&quot" doesn't end in ';'
+line 41945 column 443 - Warning: unescaped & which should be written as &amp;
+line 42480 column 302 - Warning: unescaped & or unknown entity "&c."
+line 42481 column 302 - Warning: unescaped & or unknown entity "&c."
+line 42963 column 54 - Warning: unescaped & or unknown entity "&quotA"
+line 42977 column 247 - Warning: unescaped & which should be written as &amp;
+line 42979 column 49 - Warning: unescaped & which should be written as &amp;
+line 42979 column 434 - Warning: unescaped & which should be written as &amp;
+line 42979 column 508 - Warning: unescaped & which should be written as &amp;
+line 42979 column 569 - Warning: unescaped & which should be written as &amp;
+line 42979 column 683 - Warning: unescaped & which should be written as &amp;
+line 43020 column 128 - Warning: unescaped & or unknown entity "&quot:."
+line 43776 column 221 - Warning: unescaped & which should be written as &amp;
+line 43779 column 1 - Warning: inserting implicit <ul>
+line 43779 column 119 - Warning: unescaped & which should be written as &amp;
+line 43780 column 1 - Warning: inserting implicit <dl>
+line 43824 column 1 - Warning: inserting implicit <ul>
+line 43824 column 18 - Warning: unescaped & which should be written as &amp;
+line 43825 column 1 - Warning: inserting implicit <dl>
+line 44074 column 183 - Warning: unescaped & which should be written as &amp;
+line 44130 column 18 - Warning: unescaped & which should be written as &amp;
+line 44222 column 60 - Warning: unescaped & or unknown entity "&B.L.M."
+line 44442 column 1 - Warning: inserting implicit <ul>
+line 44443 column 1 - Warning: inserting implicit <dl>
+line 44507 column 327 - Warning: unescaped & which should be written as &amp;
+line 44590 column 1 - Warning: inserting implicit <ul>
+line 44591 column 1 - Warning: inserting implicit <dl>
+line 44618 column 1 - Warning: inserting implicit <ul>
+line 44619 column 1 - Warning: inserting implicit <dl>
+line 44734 column 721 - Warning: unescaped & which should be written as &amp;
+line 44744 column 1 - Warning: inserting implicit <ul>
+line 44745 column 1 - Warning: inserting implicit <dl>
+line 44778 column 72 - Warning: unescaped & or unknown entity "&era"
+line 44891 column 721 - Warning: unescaped & which should be written as &amp;
+line 44901 column 1 - Warning: inserting implicit <ul>
+line 44902 column 1 - Warning: inserting implicit <dl>
+line 44935 column 72 - Warning: unescaped & or unknown entity "&era"
+line 45048 column 721 - Warning: unescaped & which should be written as &amp;
+line 45058 column 1 - Warning: inserting implicit <ul>
+line 45059 column 1 - Warning: inserting implicit <dl>
+line 45092 column 72 - Warning: unescaped & or unknown entity "&era"
+line 45192 column 18 - Warning: unescaped & which should be written as &amp;
+line 45265 column 21 - Warning: unescaped & which should be written as &amp;
+line 45265 column 177 - Warning: unescaped & which should be written as &amp;
+line 45295 column 169 - Warning: unescaped & which should be written as &amp;
+line 45317 column 7 - Warning: missing <li>
+line 45331 column 16 - Warning: missing <dd>
+line 45332 column 281 - Warning: unescaped & which should be written as &amp;
+line 45336 column 17 - Warning: missing <dd>
+line 45338 column 170 - Warning: unescaped & which should be written as &amp;
+line 45376 column 1 - Warning: inserting implicit <ul>
+line 45377 column 1 - Warning: inserting implicit <dl>
+line 45387 column 1 - Warning: inserting implicit <ul>
+line 45388 column 1 - Warning: inserting implicit <dl>
+line 45414 column 21 - Warning: unescaped & which should be written as &amp;
+line 45414 column 177 - Warning: unescaped & which should be written as &amp;
+line 45444 column 169 - Warning: unescaped & which should be written as &amp;
+line 45466 column 7 - Warning: missing <li>
+line 45480 column 16 - Warning: missing <dd>
+line 45481 column 281 - Warning: unescaped & which should be written as &amp;
+line 45485 column 17 - Warning: missing <dd>
+line 45487 column 170 - Warning: unescaped & which should be written as &amp;
+line 45525 column 1 - Warning: inserting implicit <ul>
+line 45526 column 1 - Warning: inserting implicit <dl>
+line 45536 column 1 - Warning: inserting implicit <ul>
+line 45537 column 1 - Warning: inserting implicit <dl>
+line 45675 column 1 - Warning: inserting implicit <ul>
+line 45676 column 1 - Warning: inserting implicit <dl>
+line 45688 column 601 - Warning: entity "&quot" doesn't end in ';'
+line 45688 column 607 - Warning: unescaped & which should be written as &amp;
+line 45705 column 1 - Warning: inserting implicit <ul>
+line 45707 column 1 - Warning: inserting implicit <dl>
+line 45845 column 1 - Warning: inserting implicit <ul>
+line 45846 column 1 - Warning: inserting implicit <dl>
+line 45858 column 601 - Warning: entity "&quot" doesn't end in ';'
+line 45858 column 607 - Warning: unescaped & which should be written as &amp;
+line 45875 column 1 - Warning: inserting implicit <ul>
+line 45877 column 1 - Warning: inserting implicit <dl>
+line 46435 column 1 - Warning: plain text isn't allowed in <table> elements
+line 47277 column 1 - Warning: missing <tr>
+line 48359 column 1 - Warning: plain text isn't allowed in <table> elements
+line 49201 column 1 - Warning: missing <tr>
+line 49821 column 411 - Warning: unescaped & which should be written as &amp;
+line 49861 column 18 - Warning: unescaped & or unknown entity "&QUOT"
+line 49861 column 43 - Warning: unescaped & or unknown entity "&QUOT"
+line 49969 column 411 - Warning: unescaped & which should be written as &amp;
+line 50009 column 18 - Warning: unescaped & or unknown entity "&QUOT"
+line 50009 column 43 - Warning: unescaped & or unknown entity "&QUOT"
+line 50436 column 1 - Warning: missing <dd>
+line 50437 column 304 - Warning: <emrey> attribute "leon," lacks value
+line 50437 column 304 - Warning: <emrey> attribute "casó" lacks value
+line 50437 column 304 - Warning: <emrey> missing '>' for end of tag
+line 50437 column 304 - Error: <emrey> is not recognized!
+line 50437 column 304 - Warning: discarding unexpected <emrey>
+line 50437 column 379 - Warning: discarding unexpected </em>
+line 50440 column 17 - Warning: missing <dd>
+line 50441 column 186 - Error: <empor> is not recognized!
+line 50441 column 186 - Warning: discarding unexpected <empor>
+line 50441 column 224 - Warning: discarding unexpected </em>
+line 50494 column 1 - Warning: inserting implicit <ul>
+line 50496 column 1 - Warning: inserting implicit <dl>
+line 50509 column 339 - Warning: unescaped & which should be written as &amp;
+line 50608 column 1 - Warning: missing <dd>
+line 50609 column 304 - Warning: <emrey> attribute "leon," lacks value
+line 50609 column 304 - Warning: <emrey> attribute "casó" lacks value
+line 50609 column 304 - Warning: <emrey> missing '>' for end of tag
+line 50609 column 304 - Error: <emrey> is not recognized!
+5570 warnings, 10 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+The table summary attribute should be used to describe
+the table structure. It is very helpful for people using
+non-visual browsers. The scope and headers attributes for
+table cells are useful for specifying which headers apply
+to each table cell, enabling non-visual browsers to provide
+a meaningful context for each cell.
+
+The alt attribute should be used to give a short description
+of an image; longer descriptions should be given with the
+longdesc attribute which takes a URL linked to the description.
+These measures are needed for people using non-graphical browsers.
+
+For further advice on how to make your pages accessible
+see http://www.w3.org/WAI/GL. You may also want to try
+"http://www.cast.org/bobby/" which is a free Web-based
+service for checking URLs for accessibility.
+
+You are recommended to use CSS to specify the font and
+properties such as its size and color. This will reduce
+the size of HTML files and make them easier to maintain
+compared with using <FONT> elements.
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please send bug reports to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium
